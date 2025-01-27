@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amreen Asif Khan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" alt="coading" width="400" src="https://images.app.goo.gl/1cVVPmAvHqZRMRJ86"/>
+<img align="right" alt="coading" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/large/anna-havrylyukh-.jpg?1596125112"/>
 - 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **HTML,CSS,JS,C,C++**
